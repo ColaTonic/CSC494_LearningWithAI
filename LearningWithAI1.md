@@ -1,0 +1,3 @@
+# Topic 1: Physcial components
+
+In this project, there were several physcial components I needed to learn about, including the Arduino and Raspberry Pi. AI helped me learn how to use certain physical components by giving me a quick setup guide so I could try out the component and see how it reacted. It also helped me to decide on and set up the raspberry pi with ESPHome, which resulted in a surprise benefit to secruity and reliability over my original plan.

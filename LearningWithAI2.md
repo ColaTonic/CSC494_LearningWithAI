@@ -1,0 +1,3 @@
+# Topic 2: Coding
+
+In this project, I had to deal with several new languages including arduino code and YAML script. Learning the documentation for both of these as well as how to combine them was a challenge, but having numerous examples to learn from made it much easier to keep track of. The google home script editor has its own AI helper which can create example automations based on prompts, which was instrumental in getting me started with YAML script.
